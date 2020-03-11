@@ -1,4 +1,4 @@
-window.onload = function(){
+/*window.onload = function(){
 	var db = ["ANH", "BICH", "CONG", "CUONG", "DUNG", "DUONG", "DUY"];
 	var inputer = document.getElementById("text-select");
 	newDb = db;
@@ -28,4 +28,4 @@ window.onload = function(){
 		}
 		newDb = db;
 	})
-}
+}*/
